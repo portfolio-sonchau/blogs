@@ -1,6 +1,8 @@
 ## Clean Code A Handbook of Agile Software Craftmanship
 
-A very popular book for software developer. My biggest complaint is the book examples are writ
+A very popular book for software developer. My biggest complaint is the book examples are written in Java,  which is my least used language. Nevertheless, most of the princicles can be applied in general, but still for some specific sections, I wished it was not Java. 
+
+Anyway, here is the highlight I have from rea
 
 
 
@@ -27,6 +29,6 @@ I know that I should write more tests. However, my argument here is that without
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODM5ODYyOTksLTExMzU3MTM0NzhdfQ
+eyJoaXN0b3J5IjpbLTE1NzYzNTkxOTEsLTExMzU3MTM0NzhdfQ
 ==
 -->
