@@ -1,5 +1,6 @@
-Clean Code A Handbook of Agile Software Craftmanship
+## Clean Code A Handbook of Agile Software Craftmanship
 
+A very popular book for software developer. My biggest complaint is the book examples are writ
 
 
 
@@ -26,5 +27,6 @@ I know that I should write more tests. However, my argument here is that without
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTU3NjYxNSwtMTEzNTcxMzQ3OF19
+eyJoaXN0b3J5IjpbLTExODM5ODYyOTksLTExMzU3MTM0NzhdfQ
+==
 -->
